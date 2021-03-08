@@ -22,7 +22,7 @@ https://anzalmohamed.github.io/Pizza-parlor
 
 * git clone ```https://github.com/anzalmohamed/pizza-parlor.git```
 
-* cd Pizza-Deliciosa
+* cd pizza-parlor
 
 * code . or atom . depending on the text editor of your choise.
 
