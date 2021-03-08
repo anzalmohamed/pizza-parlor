@@ -1,0 +1,89 @@
+body{
+  background-image: url(../IMAGES/pquote.jpeg);
+}
+.order{
+  background-image: url(../IMAGES/image1.jpg);
+  color:whitesmoke;
+  
+  align-items: center;
+}
+#about{
+  background-image: url(../IMAGES/about.webp);
+}
+#menu{
+  margin-bottom: 1cm;
+}
+#final-order {background-color: #f44336;}
+#checkout{background-color: yellow;
+
+}
+#home-delivery{
+  background-color: darkred;
+}
+#add-pizza{
+  background-color: darksalmon
+  ;
+}
+#proceed{
+  background-color: darkcyan;
+}
+
+.order-overlay{
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 20px;
+  padding-left: 6%;
+}
+.choise{
+  display: none;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.deliver{
+  display: none;
+}
+.delivery{
+  display: none;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+td,th{
+  font-size: 20px;
+  color: white;
+}
+.choise h2{
+  color:orange;
+  text-align: left;
+}
+#your-orders{
+  color: white;
+  font-size: 30px;
+}
+.card{
+  margin-top: 1cm;
+}
+#image{
+  height: 4cm;
+  width: 5cm;
+}
+#menu{
+  text-align: center;
+}
+#row2{
+  margin-bottom: 1cm;
+}
+#chickentikka{display: none;}
+#periperi{display: none;}
+#rasberry{display: none;}
+#alfredo{display: none;}
+#sunchoke{display: none;}
+#buffalo{display: none;}
+#bbq{display: none;}
+#pepperoni{display: none;}
+
+
+
+
+
+  
