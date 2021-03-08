@@ -24,7 +24,7 @@ https://anzalmohamed.github.io/Pizza-parlor
 
 * cd pizza-parlor
 
-* code . or atom . depending on the text editor of your choise.
+* code . or atom . depending on the text editor of your choice.
 
 ## Technologies Used
 
