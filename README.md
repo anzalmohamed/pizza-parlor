@@ -1,4 +1,4 @@
-# Pizza-Deliciosa
+# THE PIZZA PARLOR
 ## Author
 
 [ANZAL MOHAMED](https://github.com/anzalmohamed)
