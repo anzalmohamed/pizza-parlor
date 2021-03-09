@@ -15,7 +15,7 @@ $(document).ready(function(){
   // $("button.proceed").click(function(){
   //   $("button.proceed").hide();
   //   $("#information").hide();
-  //   $("div.choise").slideDown(1000);
+  //   $("div.choice").slideDown(1000);
   // });
   $("button.proceed").click(function(event){
    let pname = $(".name option:selected").val();
@@ -52,6 +52,9 @@ $(document).ready(function(){
       case "Crispy":
         crust_price = 200;
       break;
+      case "thin":
+        crust_price = 100;
+        break;
       case "Stuffed":
         crust_price = 250;
       break;
@@ -68,13 +71,13 @@ $(document).ready(function(){
       console.log("nothing selected");
       $("button.proceed").show();
       $("#information").show();
-      $("div.choise").hide();
+      $("div.choice").hide();
       alert("Please select pizza size and crust"); 
     }
     else{
       $("button.proceed").hide();
       $("#information").hide();
-      $("div.choise").slideDown(1000);
+      $("div.choice").slideDown(1000);
     }
 
     total = price + crust_price + topping_value;
