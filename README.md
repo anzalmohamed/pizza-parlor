@@ -57,6 +57,4 @@ https://anzalmohamed.github.io/Pizza-parlor
 If you have any question or contributions that would better this app, please email me at [anzaldidah@gmail.com]
 
 ## License
-* *MIT License:*
-* Copyright (c) 2021 **Anzal Mohamed **
-
+[MIT]() © [Anzal Mohamed](https://github.com/anzalmohamed)
