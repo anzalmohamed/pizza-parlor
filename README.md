@@ -11,7 +11,7 @@ cuurent the only version available is one
 This is a web application for The pizza parlor which sells pizza , it also that shows details about the  different pizzas they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to. 
 
 ## Screenshot
-<img src="/home/anzal/Desktop/pizza-parlor/IMAGES/Screenshot from 2021-03-09 10-25-12.png" width="900px" height="440px">
+<img src="./IMAGES/Screenshot from 2021-03-09 10-25-12.png" width="900px" height="440px">
 
 ## Live Page 
 https://anzalmohamed.github.io/Pizza-parlor 
