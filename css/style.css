@@ -1,4 +1,3 @@
-
 .welcome{
 text-align: center;
 }
@@ -42,7 +41,7 @@ text-align: center;
   align-items: center;
 }
 #about{
-  background-image: url(../IMAGES/about.webp);
+  background-image: url(../IMAGES/pquote.jpeg);
   text-align: center;
 }
 #menu{
@@ -54,6 +53,7 @@ text-align: center;
 }
 #order3{
   text-align: center;
+  color: ;
 }
 #home-delivery{
   background-color: darkred;
