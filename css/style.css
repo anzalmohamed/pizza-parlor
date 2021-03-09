@@ -1,6 +1,10 @@
 body{
   background-image: url(../IMAGES/pquote.jpeg);
 }
+
+.welcome{
+text-align: center;
+}
 /* The navigation bar */
 /* Style the navbar */
 #navbar {
@@ -42,6 +46,7 @@ body{
 }
 #about{
   background-image: url(../IMAGES/about.webp);
+  text-align: center;
 }
 #menu{
   margin-bottom: 1cm;
@@ -49,6 +54,9 @@ body{
 #final-order {background-color: #f44336;}
 #checkout{background-color: yellow;
 
+}
+#order3{
+  text-align: center;
 }
 #home-delivery{
   background-color: darkred;
@@ -120,8 +128,31 @@ td,th{
 }
 #h4{
   text-align: center;}
-
-
+  
+  #show-contact {
+    display: none;
+  }
+  
+  .contact {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  .contact:hover {
+    text-decoration: underline;
+  }
+iframe{
+  align-self: center;
+}  
+#location{
+  padding: 0cm;
+  border: 0cm;
+  background-image: url(../IMAGES/pquote.jpeg);
+}
+#img{
+  height:15cm;
+  width: 30cm;
+}
 
 
 
